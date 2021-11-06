@@ -127,7 +127,7 @@ function App() {
               <div className="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                 <div className="icon-box">
                   <div className="icon"><i className="bx bxl-dribbble"></i></div>
-                  <h4><a href="">Desenvolvimento Web</a></h4>
+                  <h4><a href="/">Desenvolvimento Web</a></h4>
                   <p>Desenvolvimento de sistemas web.</p>
                 </div>
               </div>
@@ -135,7 +135,7 @@ function App() {
               <div className="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
                 <div className="icon-box">
                   <div className="icon"><i className="bx bx-file"></i></div>
-                  <h4><a href="">Desenvolvimento de Aplicativos</a></h4>
+                  <h4><a href="/">Desenvolvimento de Aplicativos</a></h4>
                   <p>Desenvolvimento de sistemas de aplicativos (Mobile ou GUI).</p>
                 </div>
               </div>
@@ -143,7 +143,7 @@ function App() {
               <div className="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
                 <div className="icon-box">
                   <div className="icon"><i className="bx bx-tachometer"></i></div>
-                  <h4><a href="">Web Design</a></h4>
+                  <h4><a href="/">Web Design</a></h4>
                   <p>Desenvolvimento de prototipação de sistemas e diagramação.</p>
                 </div>
               </div>
@@ -151,7 +151,7 @@ function App() {
               <div className="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
                 <div className="icon-box">
                   <div className="icon"><i className="bx bx-layer"></i></div>
-                  <h4><a href="">Painéis Administrativos</a></h4>
+                  <h4><a href="/">Painéis Administrativos</a></h4>
                   <p>Desenvolvimento de painéis administrativos e análise dados.</p>
                 </div>
               </div>
@@ -176,7 +176,7 @@ function App() {
       </footer>
 
       <div id="preloader"></div>
-      <a href="#" className="back-to-top d-flex align-items-center justify-content-center"><i className="bi bi-arrow-up-short"></i></a>
+      <a href="/" className="back-to-top d-flex align-items-center justify-content-center"><i className="bi bi-arrow-up-short"></i></a>
     </>
   );
 }
