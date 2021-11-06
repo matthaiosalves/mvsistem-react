@@ -79,7 +79,7 @@ function App() {
                 <div className="accordion-list">
                   <ul>
                     <li>
-                      <a data-bs-toggle="collapse" className="collapse" data-bs-target="#accordion-list-1"><span>01</span> A MVsistems trabalha com quais linguagens de programação? <i className="bx bx-chevron-down icon-show"></i><i className="bx bx-chevron-up icon-close"></i></a>
+                      <a href="/" data-bs-toggle="collapse" className="collapse" data-bs-target="#accordion-list-1"><span>01</span> A MVsistems trabalha com quais linguagens de programação? <i className="bx bx-chevron-down icon-show"></i><i className="bx bx-chevron-up icon-close"></i></a>
                       <div id="accordion-list-1" className="collapse show" data-bs-parent=".accordion-list">
                         <p>
                           Atualmente trabalhamos com JavaScript e PHP.
@@ -88,7 +88,7 @@ function App() {
                     </li>
 
                     <li>
-                      <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" className="collapsed"><span>02</span> Utilizam algum framework? <i className="bx bx-chevron-down icon-show"></i><i className="bx bx-chevron-up icon-close"></i></a>
+                      <a href="/" data-bs-toggle="collapse" data-bs-target="#accordion-list-2" className="collapsed"><span>02</span> Utilizam algum framework? <i className="bx bx-chevron-down icon-show"></i><i className="bx bx-chevron-up icon-close"></i></a>
                       <div id="accordion-list-2" className="collapse" data-bs-parent=".accordion-list">
                         <p>
                           Sim, utilizamos. Tais como, React, Next, Gatsby, Node e Laravel.
@@ -97,7 +97,7 @@ function App() {
                     </li>
 
                     <li>
-                      <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" className="collapsed"><span>03</span> A MVsistems trabalha com automações e criação de BOT? <i className="bx bx-chevron-down icon-show"></i><i className="bx bx-chevron-up icon-close"></i></a>
+                      <a href="/" data-bs-toggle="collapse" data-bs-target="#accordion-list-3" className="collapsed"><span>03</span> A MVsistems trabalha com automações e criação de BOT? <i className="bx bx-chevron-down icon-show"></i><i className="bx bx-chevron-up icon-close"></i></a>
                       <div id="accordion-list-3" className="collapse" data-bs-parent=".accordion-list">
                         <p>
                           Sim, fazemos também automações com BOT.
